@@ -1,50 +1,36 @@
-# 💼 PaySphere – Comprehensive Payroll Management System
-
-PaySphere is a feature-rich payroll management system built with Django. It is designed to automate and simplify payroll processes such as employee management, salary generation, leave tracking, and attendance. Ideal for startups, SMEs, and HR departments aiming to reduce manual efforts and enhance accuracy.
-
----
+# PaySphere – Comprehensive Payroll Management System
 
 ## 🛠️ Technologies Used
 
 - **Backend**: Django (Python)
 - **Frontend**: HTML, CSS, Bootstrap
-- **Database**: SQLite (default), can be switched to PostgreSQL/MySQL
-- **Other Tools**: Django Admin, Django Templates
+- **Database**: SQLite
 
----
+## Features
 
-## 📌 Features
-
-### 👤 Employee Management
+### Employee Management
 - Add, update, and delete employee profiles
 - Store contact, job, and bank details
 - Role-based access control
 
-### 🧾 Salary Management
+### Salary Management
 - Automated salary calculation (basic, HRA, allowances, deductions)
 - Monthly payslip generation and download (PDF format)
 - Tax and PF calculations
 
-### 📅 Leave Management
+### Leave Management
 - Leave request, approval, and history tracking
 - Configurable leave types and policies
 - Leave balance and carry forward
 
-### 📌 Admin Dashboard
+### Admin Dashboard
 - Centralized panel for HR/Admin operations
 - Graphs and reports on employee and payroll data
 - Notifications and activity logs
 
 ---
 
-## 🚀 Getting Started
-
-### 📦 Prerequisites
-- Python 3.8+
-- Django 3.2+ (or latest LTS)
-- Virtualenv (recommended)
-
-### 🔧 Installation
+## Getting Started
 
 ```bash
 # Clone the repository
