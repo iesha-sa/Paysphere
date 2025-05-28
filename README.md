@@ -1,6 +1,6 @@
 # PaySphere – Comprehensive Payroll Management System
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Backend**: Django (Python)
 - **Frontend**: HTML, CSS, Bootstrap
