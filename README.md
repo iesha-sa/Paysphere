@@ -7,7 +7,7 @@ PaySphere is a feature-rich payroll management system built with Django. It is d
 ## 🛠️ Technologies Used
 
 - **Backend**: Django (Python)
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Frontend**: HTML, CSS, Bootstrap
 - **Database**: SQLite (default), can be switched to PostgreSQL/MySQL
 - **Other Tools**: Django Admin, Django Templates
 
@@ -29,11 +29,6 @@ PaySphere is a feature-rich payroll management system built with Django. It is d
 - Leave request, approval, and history tracking
 - Configurable leave types and policies
 - Leave balance and carry forward
-
-### 📊 Attendance Tracking
-- Daily clock-in/clock-out system
-- Monthly attendance reports
-- Overtime and late entry calculation
 
 ### 📌 Admin Dashboard
 - Centralized panel for HR/Admin operations
